@@ -1,4 +1,6 @@
 # KeyEventArgsHelperSample
+MIT license for use of any kind.
+
 Helper to check for modifier and system keys during input, with counter excluding said input.
 
 KeyEventArgsHelper.cs file containts helpers.
