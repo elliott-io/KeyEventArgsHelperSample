@@ -3,7 +3,9 @@ MIT license for use of any kind.
 
 Helper to check for modifier and system keys during input, with counter excluding said input.
 
-KeyEventArgsHelper.cs file containts helpers.
+<img src="https://user-images.githubusercontent.com/15320938/29698868-aad4543e-8926-11e7-858d-31a5b7b09ab0.gif"/>
+
+KeyEventArgsHelper.cs file contains helpers.
 
 A simple method to check for keyboard modifiers:
 
